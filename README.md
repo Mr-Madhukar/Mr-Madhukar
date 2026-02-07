@@ -1,143 +1,50 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/Main.jpeg" alt="Mr Madhukar Banner" width="100%">
+</p>
 
-### Hi, I'm **Mr Madhukar** 👋
+<p align="center">
+  <a href="https://x.com/Mr_Madhukar_"><img src="https://img.shields.io/badge/@Mr__Madhukar__-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://hashnode.com/@mrmadhukar"><img src="https://img.shields.io/badge/@mrmadhukar-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="mailto:madhukar212005@gmail.com"><img src="https://img.shields.io/badge/madhukar212005-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-📧 [madhukar212005@gmail.com](mailto:madhukar212005@gmail.com) • 🐦 [@Mr_Madhukar_](https://x.com/Mr_Madhukar_) • 💼 [LinkedIn](https://www.linkedin.com/in/mr-madhukar) • 📝 [Hashnode](https://hashnode.com/@mrmadhukar) • 💻 [LeetCode](https://leetcode.com/u/Mr_Madhukar/)
+## 👋 Hi there
 
-</div>
+- I am **Full-Stack Developer** by day ☼ and **Problem Solver** by night ☾
 
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│  Full-Stack Developer | Java | Python | MERN | Building Solutions 🚀   │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+- I'm currently working on **Building efficient software solutions** that solve real-world challenges and learning **Full-Stack Development (MERN), Data Structures & Algorithms, and exploring DevOps**.
 
----
+- I'm looking to collaborate on **Software development projects** and **Impactful projects** where I can contribute and learn.
 
-## 💼 About Me
+- I'm looking for help with **Finding learning opportunities and internships** in the software development field.
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  education: string;
-  currentFocus: string[];
-  openTo: string;
-}
+- Ask me about **Java, Python, and Web Development** — The **MERN stack (JavaScript, React, Node.js, Express, MongoDB)** and **Git/GitHub**.
 
-const profile: Developer = {
-  name: "Mr Madhukar",
-  role: "Full-Stack Developer",
-  location: "India 🇮🇳",
-  education: "CSE Student (Top Performer) | Gemini Certified",
-  currentFocus: [
-    "Building efficient software solutions",
-    "Mastering MERN Stack, Java & Python",
-    "Data Structures & Algorithms",
-    "DevOps & Cloud Architecture"
-  ],
-  openTo: "Impactful collaborations and learning opportunities"
-};
+- Happy to connect with **Amazing folks** and build **Awesome network**.
 
-// Current Status
-console.log("� Seeking internships in software development");
-console.log("🤝 Open to collaborating on meaningful open-source projects");
-```
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,mongodb,mysql,postgres,git,github,docker,aws,gcp,vercel,nextjs,tailwind,bootstrap,go,c,php&perline=12" />
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Madhukar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFF" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mr-Madhukar&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFF" width="48%" />
+</p>
 
-```yaml
-Languages:
-  - Java
-  - Python
-  - JavaScript
-  - Go
-  - C
-  - PHP
-
-Frontend:
-  - React
-  - Next.js
-  - HTML5 & CSS3
-  - TailwindCSS
-  - Bootstrap
-
-Backend:
-  - Node.js
-  - Express.js
-
-Databases:
-  - MongoDB
-  - MySQL
-  - PostgreSQL
-
-DevOps & Cloud:
-  - Docker
-  - Kubernetes
-  - AWS
-  - Google Cloud
-  - Vercel
-  - Netlify
-
-Tools:
-  - Git & GitHub
-  - GitLab
-  - Postman
-  - JUnit
-  - Notion
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Madhukar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&hide_progress=true" width="48%" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<p align="center">
+  <i>"Code with passion, build with purpose"</i>
+</p>
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mr-Madhukar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFF" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Mr-Madhukar&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFF" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Madhukar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&hide_progress=true" />
-
-</div>
-
----
-
-## � Dev Philosophy
-
-```python
-class Programmer:
-    def __init__(self):
-        self.motto = "Code with passion, build with purpose"
-        self.philosophy = [
-            "First, solve the problem. Then, write the code.",
-            "Simplicity is the soul of efficiency.",
-            "Clean code always looks like it was written by someone who cares."
-        ]
-    
-    def work(self):
-        return "Building solutions that matter ✨"
-
-dev = Programmer()
-print(dev.work())  # Output: Building solutions that matter ✨
-```
-
----
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║         Thanks for visiting! Let's build together 🚀          ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mr-Madhukar&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mr-Madhukar&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
