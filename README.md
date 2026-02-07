@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://x.com/Mr_Madhukar_"><img src="https://img.shields.io/badge/@Mr__Madhukar__-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mr-madhukar"><img src="https://img.shields.io/badge/Mr__Madhukar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://hashnode.com/@mrmadhukar"><img src="https://img.shields.io/badge/@mrmadhukar-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="mailto:madhukar212005@gmail.com"><img src="https://img.shields.io/badge/madhukar212005-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -27,19 +28,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,mongodb,mysql,postgres,git,github,docker,aws,gcp,vercel,nextjs,tailwind,bootstrap,go,c,php&perline=12" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Madhukar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFF" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mr-Madhukar&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Madhukar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&hide_progress=true" width="48%" />
-</p>
-
----
 
 <p align="center">
   <i>"Code with passion, build with purpose"</i>
