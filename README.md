@@ -1,21 +1,159 @@
-![logo](https://github.com/Mr-Madhukar/Mr-Madhukar/blob/main/Black%20Yellow%20Modern%20Programmer%20Online%20Portfolio.png)
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-# 💫 About Me:
-I'm currently working on<br>Building efficient software solutions that solve real-world challenges.<br>Full-stack development (MERN), data structures and algorithms, and exploring DevOps.<br><br>I'm looking to collaborate on<br>Software development projects.<br>Impactful projects where I can contribute and learn.<br><br>I'm looking for help with<br>Finding learning opportunities and internships in the software development field.<br><br>Ask me about<br>Java, Python, and Web Development.<br>The MERN stack (JavaScript, React, Node.js, Express, MongoDB) and Git/GitHub.<br><br>Fun fact<br>I am a Gemini Certified University Student and was a Topper in CSE.
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.madhukar.kumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mr_Madhukar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/u/Madhukar03/s/CwTGjix9tH) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28548044/madhukar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mr_Madhukar_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhukar212005@gmail.com) 
+**`🌐 CONNECT WITH ME`**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mr-Madhukar&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mr-Madhukar&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Madhukar&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[**HASHNODE**](https://hashnode.com/@mrmadhukar) • [**TWITTER/X**](https://x.com/Mr_Madhukar_) • [**LEETCODE**](https://leetcode.com/u/Mr_Madhukar/) • [**LINKEDIN**](https://www.linkedin.com/in/mr-madhukar) • [**EMAIL**](mailto:madhukar212005@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mr-Madhukar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👨‍💻 About Me
+
+```javascript
+const mrMadhukar = {
+    name: "Mr Madhukar",
+    role: "Full-Stack Developer",
+    location: "India 🇮🇳",
+    education: "CSE Student (Top Performer)",
+    certifications: ["Gemini Certified University Student"],
+    
+    currentFocus: {
+        primary: ["Full-Stack Development", "Problem Solving"],
+        exploring: ["DevOps", "Cloud Architecture", "System Design"],
+        mastering: ["Data Structures & Algorithms"]
+    },
+    
+    skills: {
+        languages: ["Java", "Python", "JavaScript", "Go", "C", "PHP"],
+        frontend: ["React", "Next.js", "Vue.js", "HTML5", "CSS3"],
+        backend: ["Node.js", "Express.js", "Spring Boot"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "SQLite"],
+        cloud: ["AWS", "Google Cloud", "Vercel", "Netlify"],
+        tools: ["Git", "GitHub", "Docker", "Jenkins", "Postman"]
+    },
+    
+    motto: "Building efficient solutions that solve real-world challenges",
+    openTo: "Impactful collaborations and learning opportunities"
+};
+
+console.log(mrMadhukar.greet());
+// => "Let's build something amazing together! 🚀"
+```
+
+### 🎯 What I'm Up To
+
+```diff
++ 🚀 Building efficient software solutions for real-world problems
++ 💻 Mastering Full-Stack Development (MERN Stack + Java + Python)
++ 🧠 Deep diving into Data Structures & Algorithms
++ 🔧 Exploring DevOps, Kubernetes, Docker & Cloud Technologies
++ 🤝 Open to collaborating on meaningful open-source projects
++ 📚 Seeking learning opportunities and internships in software development
+```
+
+**💬 Ask Me About:** `Java` `Python` `JavaScript` `React` `Node.js` `Express` `MongoDB` `Git` `GitHub`
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### **Languages**
+`Java` `Python` `JavaScript` `Go` `C` `PHP` `HTML5` `CSS3`
+
+### **Frontend**
+`React` `Next.js` `Vue.js` `TailwindCSS` `Bootstrap`
+
+### **Backend**
+`Node.js` `Express.js` `Spring Boot` `FastAPI`
+
+### **Databases**
+`MongoDB` `MySQL` `PostgreSQL` `SQLite`
+
+### **DevOps & Cloud**
+`Docker` `Kubernetes` `AWS` `Google Cloud` `Vercel` `Netlify` `Jenkins` `GitHub Actions` `GitLab CI`
+
+### **Tools & Others**
+`Git` `GitHub` `GitLab` `Postman` `Jest` `Jira` `Notion` `Arduino`
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│                     CODING ACTIVITY                             │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mr-Madhukar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFF" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Mr-Madhukar&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFF" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Madhukar&theme=github-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" />
+</p>
+
+<details>
+<summary><b>📈 More Statistics</b></summary>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Madhukar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&hide_progress=true" />
+</p>
+
+</details>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+```python
+def daily_motivation():
+    quotes = [
+        "Code is like humor. When you have to explain it, it's bad.",
+        "First, solve the problem. Then, write the code.",
+        "Experience is the name everyone gives to their mistakes.",
+        "In order to be irreplaceable, one must always be different.",
+        "Simplicity is the soul of efficiency."
+    ]
+    return choice(quotes)
+
+print(daily_motivation())
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║     Thanks for visiting my profile!                           ║
+║     Let's connect and build something amazing together 🚀     ║
+║                                                               ║
+║     "Code with passion, build with purpose"                   ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+**⭐ From [Mr-Madhukar](https://github.com/Mr-Madhukar) with 💙**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Mr-Madhukar&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
