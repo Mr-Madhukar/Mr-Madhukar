@@ -30,7 +30,7 @@
 </p>
 
 <details>
-<summary><b>📊 GitHub Statistics</b></summary>
+<summary><b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="20" align="top"> GitHub Statistics</b></summary>
 
 <br/>
 
