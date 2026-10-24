@@ -107,5 +107,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mr-Madhukar&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://views-counter.vercel.app/badge?pageId=Mr-Madhukar%2FMr-Madhukar&type=unique" alt="Unique Profile Views" />
 </p>
