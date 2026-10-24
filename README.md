@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Backend Engineer | AI-Integrated SaaS Builder</h3>
 
 <p align="center">
-  <img src="./assets/Main.jpeg" alt="Madhukar banner" width="100%">
+  <img src="./assets/Main.png" alt="Madhukar banner" width="100%">
 </p>
 
 <p align="center">
